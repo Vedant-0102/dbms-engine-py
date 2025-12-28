@@ -26,9 +26,6 @@ This creates sample tables (employees, products, customers) with data.
 ### 2. Launch the GUI (Recommended)
 
 **Windows:**
-```bash
-run_gui.bat
-```
 
 **All platforms:**
 ```bash
